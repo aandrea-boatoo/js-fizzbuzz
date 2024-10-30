@@ -25,7 +25,5 @@ if(i % 3 === 0 && i % 5 === 0){
 } else if(i % 5 == 0){
     stamp = "Buzz"
 }
-    
 console.log(stamp);
-
 }
